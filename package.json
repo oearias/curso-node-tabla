@@ -1,0 +1,15 @@
+{
+  "name": "ejercicios-fh",
+  "version": "0.0.1",
+  "description": "Es una simple tabla de mutiplicar que genera un archivo de texto",
+  "main": "tabla.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Arias",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
